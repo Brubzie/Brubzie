@@ -16,9 +16,20 @@ Sou entusiasta de tecnologias em geral e estou a procura de meu primeiro emprego
 </div>
 
 <style>
- h1, h2, h3 {
-  text-align: center;
-  text-decoration: underline;
-  font-wigth: bold;
- }
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+  body {
+   background-color: blueviolet;
+  }
+    
+    h1, h2, h3 {
+        text-decoration: underline;
+        letter-spacing: -0.4px;
+        text-align: center;
+        font-weight: bold;
+    }
 </style>
