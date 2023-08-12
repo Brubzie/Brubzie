@@ -15,10 +15,6 @@ Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podem
 
 ![Brubzie GitHub stats](https://github-readme-stats.vercel.app/api?username=Brubzie&show_icons=true&theme=dracula)
 
-## Sistema Operacional que utilizo
-
-[![Windows]](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br clear="all">
