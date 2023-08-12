@@ -1,6 +1,6 @@
-# Olá! Eu sou Bruno👋
+# Olá! Eu sou Bruno 🤓👋
 
-Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar os mistérios do mundo digital. Minha jornada no universo da TI começou com a curiosidade de entender como as linhas de código podem transformar ideias em realidade.
+🖥️ Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar os mistérios do mundo digital. Minha jornada no universo da TI começou com a curiosidade de entender como as linhas de código podem transformar ideias em realidade.
 
 💡 Estou constantemente em busca de oportunidades para expandir meus horizontes no campo da TI. Minha trajetória acadêmica e projetos pessoais me permitiram mergulhar em áreas como desenvolvimento de software, segurança cibernética e análise de dados. Acredito que a aprendizagem contínua é a chave para acompanhar a rápida evolução tecnológica, e estou sempre ansioso para enfrentar novos desafios que me ajudem a crescer como profissional.
 
