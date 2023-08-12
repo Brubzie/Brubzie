@@ -1,4 +1,4 @@
-# Olá! Eu sou Bruno 🤓👋
+# Olá! Eu sou Bruno 😄👋
 
 🖥️ Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar os mistérios do mundo digital. Minha jornada no universo da TI começou com a curiosidade de entender como as linhas de código podem transformar ideias em realidade.
 
