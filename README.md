@@ -27,5 +27,3 @@ Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podem
 
 
 ![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-
-![GIF 2](https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif)
