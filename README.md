@@ -1,13 +1,5 @@
 # Olá! Eu sou o Bruno 😄👋
 
-<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="auto">
-
-<img src="https://giphy.com/embed/3ITYOFkCP18TqyAKxW" width="366" height="auto">
-
-![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-
-![GIF 2](https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif)
-
 💻 Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar o mundo digital. Minha jornada na área começou com a curiosidade de entender como as linhas de código transformam ideias em realidade.
 
 🔍 Sempre busco oportunidades para expandir meus horizontes na TI. Minha formação acadêmica e projetos pessoais me levaram a explorar desenvolvimento de software, segurança cibernética e análise de dados. Acredito que a aprendizagem constante é crucial para acompanhar a evolução tecnológica, e encaro novos desafios como oportunidades para crescer profissionalmente.
