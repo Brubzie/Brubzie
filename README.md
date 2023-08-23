@@ -4,9 +4,9 @@
 
 <img src="https://giphy.com/embed/3ITYOFkCP18TqyAKxW" width="366" height="auto">
 
-[![Descrição da Imagem](https://giphy.com/embed/3ITYOFkCP18TqyAKxW)]
+![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
 
-[![Descrição da Imagem](URL_DO_GIF)]
+![GIF 2](https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif)
 
 💻 Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar o mundo digital. Minha jornada na área começou com a curiosidade de entender como as linhas de código transformam ideias em realidade.
 
