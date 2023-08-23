@@ -24,3 +24,8 @@ Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podem
 
 ## Scoreboard 💯
 ![Brubzie GitHub stats](https://github-readme-stats.vercel.app/api?username=Brubzie&show_icons=true&theme=dracula)
+
+
+![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+![GIF 2](https://media.giphy.com/media/3ITYOFkCP18TqyAKxW/giphy.gif)
