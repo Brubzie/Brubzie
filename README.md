@@ -28,5 +28,13 @@ Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podem
 ## Linguagens Mais Utilizadas 🌐
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brubzie)](https://github.com/Brubzie/github-readme-stats)
 
+</hr>
+
+# Descontrair um pouco ℹ️
+
+## Hobbies ☕
+
+Gosto de tomar café enquanto estudo novas linguagens, reviso projetos, jogo ou assisto algo no conforto de minha cadeira de bar em frente ao computador.
+Costumo jogar jogos Rogue Like/Lite, Plataformas 2 e 2.5D, Retros, Beat'em Up e Hack 'n' Slash.  
 
 ![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
