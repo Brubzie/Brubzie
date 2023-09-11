@@ -33,5 +33,5 @@ Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podem
 
 ## Hobbies ☕
 
-Gosto de tomar café enquanto estudo novas linguagens, reviso projetos, jogo ou assisto algo no conforto de minha cadeira de bar em frente ao computador.
-Costumo jogar jogos Rogue Like/Lite, Plataformas 2 e 2.5D, Retros, Beat'em Up e Hack 'n' Slash.  
+Gosto de tomar café enquanto estudo linguagens de programação, reviso projetos, jogo ou assisto algo no conforto de minha cadeira em frente ao computador.
+Costumo jogar jogos Rogue Like/Lite, Plataformas 2D e 2.5D, Retros, Beat'em Up e Hack 'n' Slash.  
