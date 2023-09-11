@@ -29,7 +29,6 @@ Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podem
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brubzie)](https://github.com/Brubzie/github-readme-stats)
 
 ![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
-# Descontrair um pouco ℹ️
 
 ## Hobbies ☕
 
