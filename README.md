@@ -4,11 +4,11 @@
 
 🔍 Sempre busco oportunidades para expandir meus horizontes na TI. Minha formação acadêmica e projetos pessoais me levaram a explorar desenvolvimento de software, segurança cibernética e análise de dados. Acredito que a aprendizagem constante é crucial para acompanhar a evolução tecnológica, e encaro novos desafios como oportunidades para crescer profissionalmente.
 
-🌐 Além da paixão pela programação e resolução de problemas, valorizo a colaboração e o compartilhamento de conhecimento. Participar da comunidade GitHub me entusiasma, onde posso contribuir com meu código, explorar projetos empolgantes e colaborar com mentes criativas globalmente.
+🌐 Além da paixão pela programação e resolução de problemas, valorizo a colaboração e o compartilhamento de conhecimento. Participar da comunidade **GitHub** me entusiasma, onde posso contribuir com meu código, explorar projetos empolgantes e colaborar com mentes criativas globalmente.
 
-🚀 Minha jornada na TI está começando, e estou animado para ver onde as linhas de código me levarão. Se você também é apaixonado por inovação tecnológica, fico feliz em conectar. Juntos, exploraremos as infinitas possibilidades do mundo digital!
+🚀 Minha jornada na área de TI está apenas começando, estou animado para ver onde as linhas de código irão me levarar. Se você também é apaixonado por inovação tecnológica, fico feliz em conectar.
 
-Convido você a acompanhar minha jornada e explorar meus projetos. Juntos, podemos moldar o futuro por meio da tecnologia!
+**Convido você a acompanhar minha jornada e explorar meus projetos.**
 
 ## Minhas Redes Sociais 📱
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006683113008) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_alves003/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bruuun1n) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-alves-81030a253/)
