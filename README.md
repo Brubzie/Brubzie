@@ -1,4 +1,4 @@
-# Olá! Eu sou o Bruno 😄👋
+# Olá! Eu sou o Bruno, um *Desenvolvedor de Software Apaixonado por Tecnologia* 😄👋
 
 💻 Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar o mundo digital. Minha jornada na área começou com a curiosidade de entender como as linhas de código transformam ideias em realidade.
 
@@ -9,6 +9,10 @@
 🚀 Minha jornada na área de TI está apenas começando, estou animado para ver onde as linhas de código irão me levarar. Se você também é apaixonado por inovação tecnológica, fico feliz em conectar.
 
 **Convido você a acompanhar minha jornada e explorar meus projetos.**
+
+## Experiência Profissional 🧑🏾‍💼
+
+No momento, estou em busca de minha primeira experiência dentro da área de TI.
 
 ## Minhas Redes Sociais 📱
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006683113008) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_alves003/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Bruuun1n) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-alves-81030a253/)
