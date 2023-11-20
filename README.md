@@ -30,7 +30,7 @@ No momento, estou em busca de minha primeira experiência dentro da área de TI.
 ## Scoreboard 💯
 ![Brubzie GitHub stats](https://github-readme-stats.vercel.app/api?username=Brubzie&show_icons=true&theme=dracula)
 
-## Linguagens Mais Utilizadas 🌐
+## Linguagens Mais Utilizadas (Segundo Linhas de Código) 🌐
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brubzie)](https://github.com/Brubzie/github-readme-stats)
 
 ![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
