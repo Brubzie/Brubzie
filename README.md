@@ -31,6 +31,7 @@ No momento, estou em busca de novas oportunidades!
 
 ## Status
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brubzie)](https://github.com/Brubzie/github-readme-stats)
+<br clear = "all">
 ![Brubzie GitHub stats](https://github-readme-stats.vercel.app/api?username=Brubzie&show_icons=true&theme=dracula)
 
 ![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
