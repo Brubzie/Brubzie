@@ -35,3 +35,9 @@ No momento, estou em busca de novas oportunidades!
 ![Brubzie GitHub stats](https://github-readme-stats.vercel.app/api?username=Brubzie&show_icons=true&theme=dracula)
 
 ![GIF 1](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brubzie/Brubzie/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brubzie/Brubzie/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brubzie/Brubzie/output/github-contribution-grid-snake.svg">
+</picture>
