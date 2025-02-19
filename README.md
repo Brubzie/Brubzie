@@ -1,4 +1,4 @@
-# Olá! Eu sou o Bruno, um *Desenvolvedor de Software Apaixonado por Tecnologia* 😄👋
+# Olá! Me chamo Bruno, um *Desenvolvedor de Software*
 
 💻 Sou um entusiasta da Tecnologia da Informação apaixonado por desvendar o mundo digital. Minha jornada na área começou com a curiosidade de entender como as linhas de código transformam ideias em realidade.
 
